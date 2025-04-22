@@ -11,6 +11,8 @@ This repository contains solved problems and implementations related to the **De
 - InsertionSort
 - MergeSort
 - QuickSort
+- HeapSort
+- CountingSort
 
 ---
 
@@ -20,10 +22,9 @@ This repository contains solved problems and implementations related to the **De
 One approach is averaging for each sample size however this will result in slow execution of overall program but one can 
 get somewhere smooth graph 
 
-My approach is simple.If we just increase the sample size and have larger offset from each sample we will get smooth graph 
-without using averaging tecnhinque 
+We need to calculate the scaling factor while plotting theoretical graph 
 
--This way no extra time is consumed !
+This way no extra time is consumed !
 
 
 ---
